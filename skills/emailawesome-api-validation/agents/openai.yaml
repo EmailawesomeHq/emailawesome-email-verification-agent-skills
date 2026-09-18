@@ -1,0 +1,6 @@
+interface:
+  display_name: "EmailAwesome API Validation"
+  short_description: "Build safe asynchronous email validation"
+  default_prompt: "Use $emailawesome-api-validation to design a server-side asynchronous validation flow for this form."
+policy:
+  allow_implicit_invocation: true

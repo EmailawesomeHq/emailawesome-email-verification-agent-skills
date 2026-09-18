@@ -1,0 +1,6 @@
+interface:
+  display_name: "EmailAwesome"
+  short_description: "Shared EmailAwesome verification guidance"
+  default_prompt: "Use $emailawesome to interpret an EmailAwesome verification result and recommend a safe next step."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "HubSpot Email Verification"
+  short_description: "Verify HubSpot leads through Zapier"
+  default_prompt: "Use $emailawesome-hubspot-verification to design a dry-run HubSpot and EmailAwesome verification workflow."
+policy:
+  allow_implicit_invocation: true

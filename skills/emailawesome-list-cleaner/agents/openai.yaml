@@ -1,0 +1,6 @@
+interface:
+  display_name: "EmailAwesome List Cleaner"
+  short_description: "Clean and verify email lists safely"
+  default_prompt: "Use $emailawesome-list-cleaner to clean this CSV, preserve every source row, and plan EmailAwesome verification outputs."
+policy:
+  allow_implicit_invocation: true
